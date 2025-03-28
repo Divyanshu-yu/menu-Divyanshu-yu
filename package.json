@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^9.5.0",
     "css-loader": "^4.3.0",
+    "cypress": "^9.5.0",
     "jest-junit": "^11.1.0",
     "jsdom": "^16.4.0",
     "react": "^16.13.1",
@@ -38,6 +38,7 @@
     "@babel/preset-env": "^7.11.5",
     "@babel/preset-react": "^7.10.4",
     "@testing-library/react": "^11.0.4",
+    "autoprefixer": "^10.4.21",
     "babel-core": "^6.26.3",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
@@ -47,7 +48,9 @@
     "enzyme-to-json": "^3.5.0",
     "html-webpack-plugin": "^4.5.0",
     "jest": "^26.4.2",
+    "postcss": "^8.5.3",
     "react-test-renderer": "^16.13.1",
+    "tailwindcss": "^4.0.17",
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
